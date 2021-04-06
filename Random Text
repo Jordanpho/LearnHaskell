@@ -10,3 +10,7 @@ waewfewewea  werwerwe
 ww e w                 r
 EEEEEEEEEEEEEEEEEEEEEEEEE
 -}
+import Data.List
+import System.IO
+
+maxInt = maxBound :: Int
